@@ -1,0 +1,21 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@cometchat-pro/chat": "^3.0.10",
+    "@emotion/core": "^10.0.35",
+    "dateformat": "^4.0.0",
+    "emoji-mart": "^3.0.0",
+    "file-loader": "^6.2.0",
+    "html-react-parser": "^1.4.5",
+    "next": "latest",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "twemoji": "^13.0.1",
+    "url-loader": "^4.1.1"
+  }
+}
